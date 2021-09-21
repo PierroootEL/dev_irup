@@ -1,0 +1,4 @@
+﻿  groupe_aléatoire.cpp
+K:\DEV_IRUP\C\groupe_aleatoire\groupe_aléatoire\groupe_aléatoire\groupe_aléatoire.cpp(31,14): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+K:\DEV_IRUP\C\groupe_aleatoire\groupe_aléatoire\groupe_aléatoire\groupe_aléatoire.cpp(36,14): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  groupe_aléatoire.vcxproj -> K:\DEV_IRUP\C\groupe_aleatoire\groupe_aléatoire\Debug\groupe_aléatoire.exe
